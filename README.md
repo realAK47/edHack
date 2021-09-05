@@ -30,3 +30,4 @@ We want to incorporate regional languages in our app and would like to make ‘e
 
 
 - ## [Demo video](https://youtu.be/m1z3f808qDM)
+- ## [Prototype](https://www.figma.com/proto/xQmqkG38d8jJC77lHCJ99R/teachers-hack?node-id=39%3A9&scaling=scale-down&page-id=0%3A1&starting-point-node-id=39%3A9&show-proto-sidebar=1)
