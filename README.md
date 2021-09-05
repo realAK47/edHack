@@ -19,7 +19,7 @@ First, through various brainstorming and online meetings we gave our idea a basi
 Challenges we ran into
 As we were beginners, it did consume a whole lot of time to learn the basics of app development using flutter. Also, AI and ML were completely new for us. 
 
-# #Accomplishments that we're proud of
+## Accomplishments that we're proud of
 We gained considerable knowledge of app development using flutter in such a short span of time. Some of our teammates gained knowledge on AI/ML for incorporating some extra features. Also, for a few of our teammates, this was their first hackathon and the experience was great. 
 
 ## What we learned
