@@ -1,7 +1,7 @@
 # edHack
 
 
-##Description
+## Description
 
 During the Covid pandemic, people switched everything to online including their education, jobs, etc. In the field of education, teachers find it difficult to manage the teaching process online, handling their live online classes, timely evaluation and feedback, peer to peer interaction, and so much more. Some teachers are also learning to reach better standards. So we have to consider the betterment of students also. As students, there are problems faced by them including not being able to -give proper feedback, find their immediate pending assignment, on-time doubt clearance and much more. This all made us inspire and build something that would help our dear teachers as well as students.
 
