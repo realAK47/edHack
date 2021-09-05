@@ -13,17 +13,17 @@ The teachers and students are facilitated with calendars(synced with their email
 
 
 
-##How we built it
+## How we built it
 First, through various brainstorming and online meetings we gave our idea a basic structure. Then we divided the work among each other, some dealt with the designing part of the app, some writing the contents. We made a prototype of the app using software called Figma and we all worked on it and made necessary changes. We used Google Meet for carrying out brainstorming meetings. We incorporated AI/ Machine Learning to help answer sheet evaluation for teachers. This was all made possible with the help of constant communication.
 
 Challenges we ran into
 As we were beginners, it did consume a whole lot of time to learn the basics of app development using flutter. Also, AI and ML were completely new for us. 
 
-##Accomplishments that we're proud of
+# #Accomplishments that we're proud of
 We gained considerable knowledge of app development using flutter in such a short span of time. Some of our teammates gained knowledge on AI/ML for incorporating some extra features. Also, for a few of our teammates, this was their first hackathon and the experience was great. 
 
-##What we learned
+## What we learned
 The things we learnt were innumerable. We never thought that we could learn in such a short time. Firstly, we learnt the basics of app development using flutter and got to work on this project using this technology. Along with that, during the period we were able to use AI/ML. The experience of working remotely as a team was fascinating and gave a lot of insights.
 
-##What's next for edHACK
+## What's next for edHACK
 We want to incorporate regional languages in our app and would like to make ‘edhack’ the default online classroom.
